@@ -128,6 +128,7 @@ chatterbox/
 ├── models.py               # Database models
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
+├── .gitattributes          # Gitattributes file
 ├── .gitignore              # Gitignore file
 │
 ├── instance/
